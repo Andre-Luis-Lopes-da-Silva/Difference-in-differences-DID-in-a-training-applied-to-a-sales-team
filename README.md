@@ -13,7 +13,8 @@ We collect sales data before and after the intervention.
 
 Using the DiD method, we estimate whether the improvement observed in Team A is actually due to the training — or simply reflects general trends.
 
-Key Concepts Covered
+**Key Concepts Covered**
+
 What is Difference-in-Differences (DiD)?
 
 The parallel trends assumption
@@ -32,7 +33,7 @@ DIF.ipynb: Jupyter Notebook with full explanation, visuals, and regression model
 
 (Optional) README.md: Overview and documentation.
 
-** Tools and Libraries Used:**
+**Tools and Libraries Used:**
 
 pandas and numpy for data handling
 
